@@ -86,4 +86,5 @@ Compared sales performance across outlet sizes and locations.
 Supported strategic business decisions through data-driven insights.
 Improved understanding of customer behavior and retail performance trends.
 
-6. Screenshots/ Demos
+6. Screenshots/ Demos:
+   [Dashboard Preview](https://github.com/pranjvarsh17/Blinkit-Dashboard/blob/main/Snapshot%20Of%20The%20BlinkIt%20Dashboard.png)
